@@ -1,4 +1,4 @@
-# Publish Terraform module to Terraform Regitry
+# Publish Terraform module to Terraform Registry
 
 ## Need to follow the following Nomeclature to get identified by the terraform registry in git repos
 
